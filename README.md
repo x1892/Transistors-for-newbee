@@ -13,3 +13,4 @@ Potentiometers,2–3,10kΩ or 50kΩ (Breadboard friendly),$1.50
 Push Buttons,2–5,6mm Tactile switches,$1.00
 Power Source,1,9V Battery clip or 5V Breadboard Power Supply,$2.00
 PCB (Custom),5 pcs,From the Gerber files in the repo,$5.00 (+ shipping)
+Total: ~$30.00 to make the best gift for your knowledge sucker 
