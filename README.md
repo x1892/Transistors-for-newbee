@@ -30,7 +30,7 @@ The total cost for this project is approximately **$16.1** (excluding shipping).
 * **Cost:** $12.78
 * **Proof:** ![Components Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d236f2bbcf0671a5_screenshot_2026-01-16_18-24-39.png)
 
-### 2. Components (LCSC)
+### 2. Components (techshopbd)
 * **Items:** Transistors (NPN/PNP), Resistors, LEDs, and Capacitors.
 * **Cost:** $3.27
 * **Proof:** ![PCB Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4df1549aba04e0be_screenshot_2026-01-16_18-09-34.png)
