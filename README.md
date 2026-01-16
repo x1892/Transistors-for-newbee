@@ -14,7 +14,6 @@ Push Buttons,2–5,6mm Tactile switches,$1.00
 Power Source,1,9V Battery clip or 5V Breadboard Power Supply,$2.00
 PCB (Custom),5 pcs,From the Gerber files in the repo,$5.00 (+ shipping)
 Total: ~$30.00 to make the best gift for your knowledge sucker 
-# a trusted local shop , i'm purchasing the components from this site  https://store.roboticsbd.com/?srsltid=AfmBOoohyo5iYHm1L01jx7qn89u4ZrJ5REkQcf69SIdFKJjIPNn6NHZ3
 [BOM.csv](https://github.com/user-attachments/files/24670936/BOM.csv)
 ,,,,,,,
 ,,,,,,,
