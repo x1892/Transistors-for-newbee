@@ -27,12 +27,12 @@ The total cost for this project is approximately **$19.66** (excluding shipping)
 
 ### 1. Custom PCB (JLCPCB)
 * **Quantity:** 5 pieces
-* **Cost:** $2.00
+* **Cost:** $12.78
 * **Proof:** ![Components Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d236f2bbcf0671a5_screenshot_2026-01-16_18-24-39.png)
 
 ### 2. Components (LCSC)
 * **Items:** Transistors (NPN/PNP), Resistors, LEDs, and Capacitors.
-* **Cost:** $17.66
+* **Cost:** $3.27
 * **Proof:** ![PCB Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4df1549aba04e0be_screenshot_2026-01-16_18-09-34.png)
 
-### Total Estimated Budget: ~$19.66 + Shipping
+### Total Estimated Budget: ~$16.1$(including shipping)
