@@ -12,18 +12,18 @@ HI, I'm Riyad.this circuit can be a great gift for your child or anyone interest
 ","Specifications (Suggested)
 ","Estimated Cost (Total)
 "
-,,,,1.Transistors (NPN),5–10,2N2222 or BC547,$1.00 - $2.00
-,,,,2.Transistors (PNP),5–10,2N2907 or BC557,$1.00 - $2.00
-,,,,3.Resistors,20,"Assorted (1kΩ, 10kΩ, 100kΩ, 470Ω)",$1.50 (for a kit)
-,,,,4.LEDs,5–10,"5mm (Red, Green, or Blue)",$1.00
-,,,,5.Capacitors,5–10,"10uF, 100uF Electrolytic; 0.1uF Ceramic",$2.00
-,,,,6.Potentiometers,2–3,10kΩ or 50kΩ (Breadboard friendly),$1.50
-,,,,7.Push Buttons,2–5,6mm Tactile switches,$1.00
-,,,,8.Power Source,1,9V Battery clip or 5V Breadboard Power Supply,$2.00
-,,,,9.PCB (Custom),5 pieces,From the Gerber files in the repo,$5.00 (+ shipping)
+,,,,1.Transistors (NPN),5–10,2N2222 or BC547
+,,,,2.Transistors (PNP),5–10,2N2907 or BC557
+,,,,3.Resistors,20,"Assorted (1kΩ, 10kΩ, 100kΩ, 470Ω)"
+,,,,4.LEDs,5–10,"5mm (Red, Green, or Blue)"
+,,,,5.Capacitors,5–10,"10uF, 100uF Electrolytic; 0.1uF Ceramic"
+,,,,6.Potentiometers,2–3,10kΩ or 50kΩ (Breadboard friendly)
+,,,,7.Push Buttons,2–5,6mm Tactile switches,
+,,,,8.Power Source,1,9V Battery clip or 5V Breadboard Power Supply
+,,,,9.PCB (Custom),5 pieces
 ## Budget and Part List
 
-The total cost for this project is approximately **$19.66** (excluding shipping). I have separated the costs into the custom PCB fabrication and the necessary electronic components.
+The total cost for this project is approximately **$16.1** (excluding shipping). I have separated the costs into the custom PCB fabrication and the necessary electronic components.
 
 ### 1. Custom PCB (JLCPCB)
 * **Quantity:** 5 pieces
