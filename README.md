@@ -21,3 +21,18 @@ HI, I'm Riyad.this circuit can be a great gift for your child or anyone interest
 ,,,,7.Push Buttons,2–5,6mm Tactile switches,$1.00
 ,,,,8.Power Source,1,9V Battery clip or 5V Breadboard Power Supply,$2.00
 ,,,,9.PCB (Custom),5 pieces,From the Gerber files in the repo,$5.00 (+ shipping)
+## Budget and Part List
+
+The total cost for this project is approximately **$19.66** (excluding shipping). I have separated the costs into the custom PCB fabrication and the necessary electronic components.
+
+### 1. Custom PCB (JLCPCB)
+* **Quantity:** 5 pieces
+* **Cost:** $2.00
+* **Proof:** ![PCB Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4df1549aba04e0be_screenshot_2026-01-16_18-09-34.png)
+
+### 2. Components (LCSC)
+* **Items:** Transistors (NPN/PNP), Resistors, LEDs, and Capacitors.
+* **Cost:** $17.66
+* **Proof:** ![Components Cart](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d236f2bbcf0671a5_screenshot_2026-01-16_18-24-39.png)
+
+### Total Estimated Budget: ~$19.66 + Shipping
