@@ -1,5 +1,5 @@
 # Transistors-for-newbee
-Hi, I'm Riyad. Thanks to the HCB team for funding this project.
+Hi, I'm Nurul. Thanks to the HCB team for funding this project.
 
 This device is designed for those who want to learn about transistor behavior. To understand and develop modern hardware, transistors are the primary component to prioritize. If someone can deeply understand transistors, they can develop almost any kind of DIY calculating device.
 
