@@ -1,8 +1,9 @@
 # Transistors-for-newbee
-HI, I'm Riyad.Thanks HCB team to funding on this project.
-this device is designed for those who wants to learn transistor behaviour. To understand and devlop mordan hardweres transistors are the mother component to prioritize. If anyone can understand transistors deeply he/she can devlop almost any kind of DIY claculating device.
-This circuit can be a great gift for your child or anyone interested in electronics.If you find any issues in this system please fix it as you want.It's completely open.
+Hi, I'm Riyad. Thanks to the HCB team for funding this project.
 
+This device is designed for those who want to learn about transistor behavior. To understand and develop modern hardware, transistors are the primary component to prioritize. If someone can deeply understand transistors, they can develop almost any kind of DIY calculating device.
+
+This is the board. You can gift it to your younger sibling, child, or anyone starting with transistors. I hope this will help anyone understand the behavior of transistors.
 
 # The Pcb 
 <img width="631" height="557" alt="Screenshot_2026-01-14_22-27-11" src="https://github.com/user-attachments/assets/ac06b659-f135-4949-85fc-c7eaafeea276" />
