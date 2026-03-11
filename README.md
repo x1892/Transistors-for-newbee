@@ -13,3 +13,11 @@ This is the board. You can gift it to your younger sibling, child, or anyone sta
 
 # The Connections of pcb 
 <img width="624" height="546" alt="Screenshot_2026-01-14_22-26-41" src="https://github.com/user-attachments/assets/db130661-b7ae-4048-a3e3-5887a0569077" />
+
+## Current Progress
+- [x] Initial Circuit Design
+- [x] PCB Layout (KiCad)
+- [ ] Manufacturing
+- [ ] Assembly Guide / Tutorial
+
+And to learn by yourself check the "HOW TO USE" folder.
