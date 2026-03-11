@@ -4,4 +4,12 @@ Now, analyze the circuit schematic picture I have uploaded, or you can use the .
 
 Before you apply power to the board, you need to understand the power input and output. You should check the datasheet of the transistor you are using. You should also check this video: https://www.youtube.com/watch?v=5vRAACeebjI.
 
+And if you think you know the basics and don't want to watch those videos, then do this:
+
+Step 1: Order the PCB using the gerbers.zip file.
+Step 2: Solder the NPN transistors and resistors according to the silkscreen labels.
+Step 3: Connect a 9V battery.
+Step 4: Press the buttons to see how the transistor acts as a switch to light up the LEDs.
+
+
 I hope you can now use the board on your own. Thanks for following the guide.
