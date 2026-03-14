@@ -7,20 +7,17 @@
 5. Potentiometers.::.10kΩ or 50kΩ (Breadboard friendly).::.$0.33
 6. Push Buttons.::.6mm Tactile switches.::.$4.22
 7. Power Source.::.9V Battery clip or 5V Breadboard Power Supply.::.$2.00
-8. PCB (Custom).::.From the Gerber files in the repo.::.$12.78 (+ shipping)
+8. PCB (Custom).::.From the Gerber files in the repo.::.$18.85 (+ shipping)
 
 
 ## Budget and Part List:
 
-The total cost for this project is approximately **37.28$** (excluding shipping). I have separated the costs into the custom PCB fabrication and the necessary electronic components.
+The total cost for this project is approximately **41.59$** (excluding shipping). I have separated the costs into the custom PCB fabrication and the necessary electronic components.
 
 ### 1. Custom PCB (JLCPCB)
 *   **Quantity:** 5 pieces
-*   **Cost:** $12.78 (shipping included).  I actually used a $6 coupon. The actual price of the PCB is $18.78 (shipping included).
-*   **Proof:** [https://trade.jlcpcb.com/checkout/proxyPayPreCheck?systemType=order_pcb&calType=PROXY_PAY&batchNum=W2026013023365552&bizKey=540169357260976130](https://trade.jlcpcb.com/checkout/proxyPayPreCheck?systemType=order_pcb&calType=PROXY_PAY&batchNum=W2026013023365552&bizKey=540169357260976130)
+*   **Cost:** $18.85 (shipping included).
 
-### 2. Components (techshopbd)
 *   **Items:** Transistors (NPN/PNP), Resistors, LEDs, Capacitors, Potentiometers & Push Buttons
-*   **Cost:** $24.25 (shipping included)
-*   **Note:** There is no way to give a cart link or order details link or a payment method link on AliExpress as with JLCPCB.
-### Total Estimated Budget: ~$37.28$ (including shipping)
+*   **Cost:** $22.74 (shipping included)
+### Total Estimated Budget: ~$41.59$ (including shipping)
